@@ -1,0 +1,12 @@
+{
+  "name": "dragon-cheer",
+  "id": 913,
+  "power": 0,
+  "pp": 15,
+  "priority": 0,
+  "type": "dragon",
+  "accuracy": 0,
+  "target": "all-allies",
+  "damage_class": "status",
+  "flavor_text": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
+}

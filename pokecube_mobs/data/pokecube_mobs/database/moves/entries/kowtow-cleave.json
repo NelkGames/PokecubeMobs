@@ -1,0 +1,11 @@
+{
+  "name": "kowtow-cleave",
+  "id": 869,
+  "power": 85,
+  "pp": 10,
+  "priority": 0,
+  "type": "dark",
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
+}

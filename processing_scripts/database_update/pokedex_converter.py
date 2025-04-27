@@ -3,7 +3,7 @@ from ignore_list import isIgnored
 from legacy_renamer import find_old_name, to_model_form, find_new_name, entry_name, banned_form,\
                   is_extra_form, TAG_IGNORE, get_interacts
 import utils
-from utils import get_form, get_pokemon, get_species, default_or_latest, get_pokemon_index, url_to_id
+from utils import get_form, get_pokemon, get_species, default_or_latest, get_pokemon_index, url_to_id, DATA_DIR, TAG_DATA_DIR, ASSET_DIR
 from moves_converter import convert_old_move_name
 from model_processor import process_model
 import os
@@ -15,9 +15,6 @@ import shutil
 # If just updating pokedex entries, leave these commented out, and instead use pokedex_updater.py after running this script.
 #
 #
-DATA_DIR = '../../pokecube_mobs/data/pokecube_mobs'
-TAG_DATA_DIR = '../../pokecube_mobs/data/pokecube'
-ASSET_DIR = '../../pokecube_mobs/assets'
 
 entry_generate_dir = f'{DATA_DIR}/database/pokemobs/pokedex_entries/'
 mega_rule_dir = f'{DATA_DIR}/database/pokemobs/mega_evos/'

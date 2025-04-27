@@ -1,0 +1,12 @@
+{
+  "name": "syrup-bomb",
+  "id": 903,
+  "power": 60,
+  "pp": 10,
+  "priority": 0,
+  "type": "grass",
+  "accuracy": 85,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns."
+}

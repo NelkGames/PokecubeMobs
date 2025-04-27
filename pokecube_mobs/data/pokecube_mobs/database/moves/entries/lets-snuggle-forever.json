@@ -1,0 +1,15 @@
+{
+  "name": "lets-snuggle-forever",
+  "id": 726,
+  "power": 190,
+  "pp": 1,
+  "priority": 0,
+  "type": "fairy",
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "After obtaining Z-Power, the user, Mimikyu, punches the target with full force.",
+  "move_category": "damage",
+  "ailment": "none",
+  "effect_text_extend": "Inflicts regular damage.",
+  "effect_text_simple": "Inflicts regular damage with no additional effect."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "malignant-chain",
+  "id": 919,
+  "power": 100,
+  "pp": 5,
+  "priority": 0,
+  "type": "poison",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned."
+}

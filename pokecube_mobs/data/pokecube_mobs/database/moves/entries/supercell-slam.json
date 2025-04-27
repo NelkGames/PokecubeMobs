@@ -1,0 +1,12 @@
+{
+  "name": "supercell-slam",
+  "id": 916,
+  "power": 100,
+  "pp": 15,
+  "priority": 0,
+  "type": "electric",
+  "accuracy": 95,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead."
+}

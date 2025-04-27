@@ -1,0 +1,12 @@
+{
+  "name": "electro-shot",
+  "id": 905,
+  "power": 130,
+  "pp": 10,
+  "priority": 0,
+  "type": "electric",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain."
+}

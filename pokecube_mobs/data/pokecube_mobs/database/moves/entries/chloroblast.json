@@ -1,0 +1,12 @@
+{
+  "name": "chloroblast",
+  "id": 835,
+  "power": 150,
+  "pp": 5,
+  "priority": 0,
+  "type": "grass",
+  "accuracy": 95,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user."
+}

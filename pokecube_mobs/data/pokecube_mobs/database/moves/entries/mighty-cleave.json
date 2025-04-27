@@ -1,0 +1,12 @@
+{
+  "name": "mighty-cleave",
+  "id": 910,
+  "power": 95,
+  "pp": 5,
+  "priority": 0,
+  "type": "rock",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself."
+}

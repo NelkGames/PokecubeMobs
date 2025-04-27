@@ -1,0 +1,11 @@
+{
+  "name": "victory-dance",
+  "id": 837,
+  "power": 0,
+  "pp": 10,
+  "priority": 0,
+  "type": "fighting",
+  "target": "user",
+  "damage_class": "status",
+  "flavor_text": "The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats."
+}

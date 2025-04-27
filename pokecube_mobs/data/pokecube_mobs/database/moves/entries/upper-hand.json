@@ -1,0 +1,12 @@
+{
+  "name": "upper-hand",
+  "id": 918,
+  "power": 65,
+  "pp": 15,
+  "priority": 3,
+  "type": "fighting",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move."
+}

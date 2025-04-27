@@ -1,0 +1,12 @@
+{
+  "name": "wave-crash",
+  "id": 834,
+  "power": 120,
+  "pp": 10,
+  "priority": 0,
+  "type": "water",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user quite a lot."
+}

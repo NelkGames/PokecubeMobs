@@ -1,0 +1,12 @@
+{
+  "name": "trailblaze",
+  "id": 885,
+  "power": 50,
+  "pp": 20,
+  "priority": 0,
+  "type": "grass",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat."
+}

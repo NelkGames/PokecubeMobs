@@ -1,0 +1,12 @@
+{
+  "name": "psyshield-bash",
+  "id": 828,
+  "power": 70,
+  "pp": 10,
+  "priority": 0,
+  "type": "psychic",
+  "accuracy": 90,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "Cloaking itself in psychic energy, the user slams into the target. This also boosts the user’s Defense stat."
+}

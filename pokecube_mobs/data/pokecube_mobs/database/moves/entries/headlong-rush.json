@@ -1,0 +1,12 @@
+{
+  "name": "headlong-rush",
+  "id": 838,
+  "power": 120,
+  "pp": 5,
+  "priority": 0,
+  "type": "ground",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user smashes into the target in a full-body tackle. This also lowers the user’s Defense and Sp. Def stats."
+}

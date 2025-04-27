@@ -2,7 +2,7 @@ import json
 
 import utils
 import os
-from utils import get_moves_index, get_move, trim, default_or_latest, url_to_id
+from utils import get_moves_index, get_move, trim, default_or_latest, url_to_id, DATA_DIR, TAG_DATA_DIR, ASSET_DIR
 
 MANUAL_RENAMES = {
     "lastout": "lash-out",
@@ -381,7 +381,7 @@ def convert_moves():
                 values[key] = value
 
         # Dump the entry file
-        file = f'../../pokecube_mobs/data/pokecube_mobs/database/moves/entries/{name}.json'
+        file = f'{DATA_DIR}/database/moves/entries/{name}.json'
         if not os.path.exists(os.path.dirname(file)):
             os.makedirs(os.path.dirname(file))
         file = open(file, 'w', encoding='utf-8')
@@ -402,7 +402,7 @@ def convert_moves():
 
     # Dump the lang files
     for key, dict in lang_files.items():
-        file = f'../../pokecube_mobs/assets/pokecube_moves/lang/{key}'
+        file = f'{ASSET_DIR}/pokecube_moves/lang/{key}'
         if not os.path.exists(os.path.dirname(file)):
             os.makedirs(os.path.dirname(file))
         try:
@@ -417,7 +417,7 @@ def convert_moves():
     for name, value in anims_dex.items():
         new_name = convert_old_move_name(name)
         if new_name is not None:
-            file = f'../../pokecube_mobs/data/pokecube_mobs/database/moves/animations/{new_name}.json'
+            file = f'{DATA_DIR}/database/moves/animations/{new_name}.json'
             output = {"name":new_name, "animations":value}
             anims = []
             for var in output["animations"]:
@@ -433,14 +433,14 @@ def convert_moves():
             print(f'unknown animation: {name}')
 
     # Dump ranged and contact tags
-    file = f'../../pokecube_mobs/data/pokecube/tags/pokemob_moves/contact-moves.json'
+    file = f'{TAG_DATA_DIR}/tags/pokemob_moves/contact-moves.json'
     if not os.path.exists(os.path.dirname(file)):
         os.makedirs(os.path.dirname(file))
     tag = {"replace":False,"values":contact}
     file = open(file, 'w', encoding='utf-8')
     json.dump(tag, file, indent=2, ensure_ascii=False)
     file.close()
-    file = f'../../pokecube_mobs/data/pokecube/tags/pokemob_moves/ranged-moves.json'
+    file = f'{TAG_DATA_DIR}/tags/pokemob_moves/ranged-moves.json'
     if not os.path.exists(os.path.dirname(file)):
         os.makedirs(os.path.dirname(file))
     tag = {"replace":False,"values":ranged}
@@ -449,7 +449,7 @@ def convert_moves():
     file.close()
 
     # Dump Z moves
-    file = f'../../pokecube_mobs/data/pokecube/tags/pokemob_moves/z-move.json'
+    file = f'{TAG_DATA_DIR}/tags/pokemob_moves/z-move.json'
     if not os.path.exists(os.path.dirname(file)):
         os.makedirs(os.path.dirname(file))
     tag = {"replace":False,"values":z_moves}
@@ -458,7 +458,7 @@ def convert_moves():
     file.close()
 
     # Dump D moves
-    file = f'../../pokecube_mobs/data/pokecube/tags/pokemob_moves/d-move.json'
+    file = f'{TAG_DATA_DIR}/tags/pokemob_moves/d-move.json'
     if not os.path.exists(os.path.dirname(file)):
         os.makedirs(os.path.dirname(file))
     tag = {"replace":False,"values":d_moves}

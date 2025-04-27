@@ -5,6 +5,10 @@ from types import SimpleNamespace
 DEFAULT_GENERATION = "ultra-sun-ultra-moon"
 DATA_SOURCE = '../../api-data/data/api/v2'
 
+DATA_DIR = '../../pokecube_mobs/data/pokecube_mobs'
+TAG_DATA_DIR = '../../pokecube_mobs/data/pokecube'
+ASSET_DIR = '../../pokecube_mobs/assets'
+
 def default_or_latest(group_details, valid):
     ret = None
     max_v = 0

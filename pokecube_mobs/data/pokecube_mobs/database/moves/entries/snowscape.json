@@ -1,0 +1,11 @@
+{
+  "name": "snowscape",
+  "id": 883,
+  "power": 0,
+  "pp": 10,
+  "priority": 0,
+  "type": "ice",
+  "target": "entire-field",
+  "damage_class": "status",
+  "flavor_text": "The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types."
+}

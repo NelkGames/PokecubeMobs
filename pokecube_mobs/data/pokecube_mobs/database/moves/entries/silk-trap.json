@@ -1,0 +1,11 @@
+{
+  "name": "silk-trap",
+  "id": 852,
+  "power": 0,
+  "pp": 10,
+  "priority": 4,
+  "type": "bug",
+  "target": "user",
+  "damage_class": "status",
+  "flavor_text": "The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact."
+}

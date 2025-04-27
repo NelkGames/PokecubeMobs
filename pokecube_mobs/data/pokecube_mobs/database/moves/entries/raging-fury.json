@@ -1,0 +1,12 @@
+{
+  "name": "raging-fury",
+  "id": 833,
+  "power": 120,
+  "pp": 10,
+  "priority": 0,
+  "type": "fire",
+  "accuracy": 100,
+  "target": "random-opponent",
+  "damage_class": "physical",
+  "flavor_text": "The user rampages around spewing flames for two to three turns. The user then becomes confused."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "bitter-blade",
+  "id": 891,
+  "power": 90,
+  "pp": 10,
+  "priority": 0,
+  "type": "fire",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user focuses its bitter feelings toward the world of the living into a slashing attack. The user's HP is restored by up to half the damage taken by the target."
+}

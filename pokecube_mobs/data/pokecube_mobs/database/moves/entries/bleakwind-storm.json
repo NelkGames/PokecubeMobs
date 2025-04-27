@@ -1,0 +1,12 @@
+{
+  "name": "bleakwind-storm",
+  "id": 846,
+  "power": 100,
+  "pp": 10,
+  "priority": 0,
+  "type": "flying",
+  "accuracy": 80,
+  "target": "all-opponents",
+  "damage_class": "special",
+  "flavor_text": "The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also lower the Speed stats of opposing Pokémon."
+}

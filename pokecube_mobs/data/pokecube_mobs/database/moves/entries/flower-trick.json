@@ -1,0 +1,11 @@
+{
+  "name": "flower-trick",
+  "id": 870,
+  "power": 70,
+  "pp": 10,
+  "priority": 0,
+  "type": "grass",
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit."
+}

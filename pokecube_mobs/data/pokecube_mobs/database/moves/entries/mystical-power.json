@@ -1,0 +1,12 @@
+{
+  "name": "mystical-power",
+  "id": 832,
+  "power": 70,
+  "pp": 10,
+  "priority": 0,
+  "type": "psychic",
+  "accuracy": 90,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user attacks by emitting a mysterious power. This also boosts the user’s Sp. Atk stat."
+}

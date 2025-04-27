@@ -1,0 +1,12 @@
+{
+  "name": "bitter-malice",
+  "id": 841,
+  "power": 75,
+  "pp": 10,
+  "priority": 0,
+  "type": "ghost",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat."
+}

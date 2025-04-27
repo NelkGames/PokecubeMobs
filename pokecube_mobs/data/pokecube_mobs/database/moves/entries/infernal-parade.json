@@ -1,0 +1,12 @@
+{
+  "name": "infernal-parade",
+  "id": 844,
+  "power": 60,
+  "pp": 15,
+  "priority": 0,
+  "type": "ghost",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition."
+}

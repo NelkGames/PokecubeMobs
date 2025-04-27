@@ -1,0 +1,12 @@
+{
+  "name": "burning-bulwark",
+  "id": 908,
+  "power": 0,
+  "pp": 10,
+  "priority": 4,
+  "type": "fire",
+  "accuracy": 0,
+  "target": "user",
+  "damage_class": "status",
+  "flavor_text": "The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it."
+}

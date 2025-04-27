@@ -1,0 +1,12 @@
+{
+  "name": "mountain-gale",
+  "id": 836,
+  "power": 100,
+  "pp": 10,
+  "priority": 0,
+  "type": "ice",
+  "accuracy": 85,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user hurls giant chunks of ice at the target to inflict damage. This may also make the target flinch."
+}

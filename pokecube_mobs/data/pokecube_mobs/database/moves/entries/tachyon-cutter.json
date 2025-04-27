@@ -1,0 +1,12 @@
+{
+  "name": "tachyon-cutter",
+  "id": 911,
+  "power": 50,
+  "pp": 10,
+  "priority": 0,
+  "type": "steel",
+  "accuracy": 0,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user attacks by launching particle blades at the target twice in a row. This attack never misses."
+}

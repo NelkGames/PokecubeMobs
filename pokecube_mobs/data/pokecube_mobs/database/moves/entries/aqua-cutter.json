@@ -1,0 +1,12 @@
+{
+  "name": "aqua-cutter",
+  "id": 895,
+  "power": 70,
+  "pp": 20,
+  "priority": 0,
+  "type": "water",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit."
+}

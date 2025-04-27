@@ -1,0 +1,12 @@
+{
+  "name": "alluring-voice",
+  "id": 914,
+  "power": 80,
+  "pp": 10,
+  "priority": 0,
+  "type": "fairy",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn."
+}

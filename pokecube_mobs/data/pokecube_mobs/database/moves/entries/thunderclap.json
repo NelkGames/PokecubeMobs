@@ -1,0 +1,12 @@
+{
+  "name": "thunderclap",
+  "id": 909,
+  "power": 70,
+  "pp": 5,
+  "priority": 1,
+  "type": "electric",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack."
+}

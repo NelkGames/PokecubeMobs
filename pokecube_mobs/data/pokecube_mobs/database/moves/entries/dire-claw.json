@@ -1,0 +1,12 @@
+{
+  "name": "dire-claw",
+  "id": 827,
+  "power": 80,
+  "pp": 15,
+  "priority": 0,
+  "type": "poison",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user lashes out at the target with ruinous claws. This may also leave the target poisoned, paralyzed, or asleep."
+}

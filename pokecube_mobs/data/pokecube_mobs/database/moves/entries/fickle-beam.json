@@ -1,0 +1,12 @@
+{
+  "name": "fickle-beam",
+  "id": 907,
+  "power": 80,
+  "pp": 5,
+  "priority": 0,
+  "type": "dragon",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power."
+}

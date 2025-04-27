@@ -1,0 +1,12 @@
+{
+  "name": "rage-fist",
+  "id": 889,
+  "power": 50,
+  "pp": 10,
+  "priority": 0,
+  "type": "ghost",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power."
+}

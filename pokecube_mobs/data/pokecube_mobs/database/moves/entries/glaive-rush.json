@@ -1,0 +1,12 @@
+{
+  "name": "glaive-rush",
+  "id": 862,
+  "power": 120,
+  "pp": 5,
+  "priority": 0,
+  "type": "dragon",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "The user throws its entire body into a reckless charge. After this move is used, attacks on the user cannot miss and will inflict double damage until the user’s next turn."
+}

@@ -1,0 +1,12 @@
+{
+  "name": "temper-flare",
+  "id": 915,
+  "power": 75,
+  "pp": 10,
+  "priority": 0,
+  "type": "fire",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "physical",
+  "flavor_text": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed."
+}

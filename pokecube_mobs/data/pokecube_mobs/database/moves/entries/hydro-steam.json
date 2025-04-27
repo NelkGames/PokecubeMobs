@@ -1,0 +1,12 @@
+{
+  "name": "hydro-steam",
+  "id": 876,
+  "power": 80,
+  "pp": 15,
+  "priority": 0,
+  "type": "water",
+  "accuracy": 100,
+  "target": "selected-pokemon",
+  "damage_class": "special",
+  "flavor_text": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent."
+}
