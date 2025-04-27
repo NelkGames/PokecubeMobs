@@ -128,7 +128,7 @@
     "name": "finizen",
     "evolutions": [
       {
-        "name": "palafin",
+        "name": "palafin-zero",
         "happy": true
       }
     ]
@@ -199,16 +199,13 @@
     "name": "tandemaus",
     "evolutions": [
       {
-        "name": "maushold",
+        "name": "maushold-family-of-four",
         "level": 25
       },
       {
-        "name": "maushold",
+        "name": "maushold-family-of-three",
         "level": 25,
-        "chance": 0.01,
-        "model": {
-          "key": "maushold-family-of-three"
-        }
+        "chance": 0.01
       }
     ]
   },

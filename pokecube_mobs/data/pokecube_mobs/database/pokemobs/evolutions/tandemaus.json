@@ -1,6 +1,6 @@
 [
   {
-    "name": "maushold",
+    "name": "maushold-family-of-four",
     "user": "tandemaus",
     "condition": {
       "key": "level",
@@ -8,7 +8,7 @@
     }
   },
   {
-    "name": "maushold",
+    "name": "maushold-family-of-three",
     "user": "tandemaus",
     "condition": [
       {
@@ -19,9 +19,6 @@
         "key": "chance",
         "chance": 0.01
       }
-    ],
-    "model": {
-      "key": "maushold-family-of-three"
-    }
+    ]
   }
 ]
