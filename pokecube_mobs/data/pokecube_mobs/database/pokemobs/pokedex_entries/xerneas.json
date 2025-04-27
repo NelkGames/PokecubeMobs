@@ -207,10 +207,12 @@
     "model": "xerneas-neutral",
     "anim": "xerneas-neutral"
   },
-  "models": {
-    "key": "xerneas-active",
-    "tex": "xerneas-active",
-    "model": "xerneas-active",
-    "anim": "xerneas-active"
-  }
+  "models": [
+    {
+      "key": "xerneas-active",
+      "tex": "xerneas-active",
+      "model": "xerneas-active",
+      "anim": "xerneas-active"
+    }
+  ]
 }
