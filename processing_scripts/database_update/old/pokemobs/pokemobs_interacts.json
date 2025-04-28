@@ -4726,7 +4726,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "meteorite"
+                "id": "#pokecube:meteorite"
               }
             },
             "action": {
@@ -4752,7 +4752,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "meteorite"
+                "id": "#pokecube:meteorite"
               }
             },
             "action": {
@@ -4778,7 +4778,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "meteorite"
+                "id": "#pokecube:meteorite"
               }
             },
             "action": {
@@ -4804,7 +4804,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "meteorite"
+                "id": "#pokecube:meteorite"
               }
             },
             "action": {
@@ -7284,7 +7284,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
@@ -7310,7 +7310,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
@@ -7336,7 +7336,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
@@ -7362,7 +7362,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
@@ -7388,7 +7388,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
@@ -7414,7 +7414,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
@@ -9808,7 +9808,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
@@ -9834,7 +9834,7 @@
             "isTag": false,
             "key": {
               "values": {
-                "id": "revealglass"
+                "id": "#pokecube:revealglass"
               }
             },
             "action": {
