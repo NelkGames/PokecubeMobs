@@ -4731,7 +4731,7 @@
             },
             "action": {
               "values": {
-                "forme": "deoxysattack",
+                "forme": "deoxys-attack",
                 "type": "forme"
               }
             }
@@ -4757,7 +4757,7 @@
             },
             "action": {
               "values": {
-                "forme": "deoxysdefense",
+                "forme": "deoxys-defense",
                 "type": "forme"
               }
             }
@@ -4783,7 +4783,7 @@
             },
             "action": {
               "values": {
-                "forme": "deoxysspeed",
+                "forme": "deoxys-speed",
                 "type": "forme"
               }
             }
