@@ -557,12 +557,28 @@ def convert_tags(entries):
                         new_values.append(new_name)
             json_obj['values'] = new_values
 
-        file = file.replace('./old', TAG_DATA_DIR)
-        if not os.path.exists(os.path.dirname(file)):
-            os.makedirs(os.path.dirname(file))
-        file = open(file, 'w')
+        filename = file.replace('./old', TAG_DATA_DIR)
+        if not os.path.exists(os.path.dirname(filename)):
+            os.makedirs(os.path.dirname(filename))
+        file = open(filename, 'w')
         json.dump(json_obj, file, indent=2)
         file.close()
+
+        if "entity_types" in filename:
+            filename = filename.replace('entity_types', "entity_type")
+            if not os.path.exists(os.path.dirname(filename)):
+                os.makedirs(os.path.dirname(filename))
+            file = open(filename, 'w')
+            json.dump(json_obj, file, indent=2)
+            file.close()
+
+        if "creature_types" in filename:
+            filename = filename.replace('creature_types', "creature_type")
+            if not os.path.exists(os.path.dirname(filename)):
+                os.makedirs(os.path.dirname(filename))
+            file = open(filename, 'w')
+            json.dump(json_obj, file, indent=2)
+            file.close()
 
 def load_overrides(override_file, overrides):
     override = f'./data/pokemobs/{override_file}.json'
