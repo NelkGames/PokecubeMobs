@@ -104,6 +104,20 @@
     ]
   },
   {
+    "name": "dunsparce",
+    "evolutions": [
+      {
+        "name": "dudunsparce-two-segment",
+        "move": "hyper-drill"
+      },
+      {
+        "name": "dudunsparce-three-segment",
+        "move": "hyper-drill",
+        "chance": 0.01
+      }
+    ]
+  },
+  {
     "name": "greavard",
     "evolutions": [
       {
@@ -183,6 +197,21 @@
           "and_preset": "raining"
         },
         "evoMoves": "iron-tail"
+      }
+    ]
+  },
+  {
+    "name": "lechonk",
+    "evolutions": [
+      {
+        "name": "oinkologne-male",
+        "level": 18,
+        "sexe": "male"
+      },
+      {
+        "name": "oinkologne-female",
+        "level": 18,
+        "sexe": "female"
       }
     ]
   },

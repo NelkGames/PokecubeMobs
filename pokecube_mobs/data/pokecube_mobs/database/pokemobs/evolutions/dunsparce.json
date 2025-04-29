@@ -1,8 +1,24 @@
-{
-  "name": "dudunsparce",
-  "user": "dunsparce",
-  "condition": {
-    "key": "move",
-    "move": "hyper-drill"
+[
+  {
+    "name": "dudunsparce-two-segment",
+    "user": "dunsparce",
+    "condition": {
+      "key": "move",
+      "move": "hyper-drill"
+    }
+  },
+  {
+    "name": "dudunsparce-three-segment",
+    "user": "dunsparce",
+    "condition": [
+      {
+        "key": "move",
+        "move": "hyper-drill"
+      },
+      {
+        "key": "chance",
+        "chance": 0.01
+      }
+    ]
   }
-}
+]

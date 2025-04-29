@@ -25,8 +25,8 @@ TOIGNORE = [
     "magearna-original",
     "zarude-dada",
 
-    # Cosmetic only
-    "maushold-family-of-three",
+    # # Cosmetic only
+    # "maushold-family-of-three",
     # "dudunsparce-three-segment", keeping this for now as it also changes sizes...
 
     "koraidon-limited-build",
