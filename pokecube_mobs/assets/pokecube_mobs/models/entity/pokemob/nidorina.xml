@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModelAnimator>
  <model>
-  <phase name="global" scale="0.12"/>
+  <phase name="global" scale="0.2"/>
   <metadata head="head" headCap="-40,40" headCap1="-40,40"/>
   <customTex default="nidorina">
    <part name="Head" tex="nidorinaeye"/>

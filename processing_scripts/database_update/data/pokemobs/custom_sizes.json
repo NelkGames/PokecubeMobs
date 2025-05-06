@@ -437,7 +437,7 @@
   {
     "name":"nidorina",
     "size":{
-      "height":0.4,
+      "height":0.8,
       "length":0.8
     }
   },
@@ -451,7 +451,7 @@
   {
     "name":"nidorino",
     "size":{
-      "height":0.5,
+      "height":0.9,
       "width":0.9
     }
   },
