@@ -68,7 +68,7 @@
         }
       }
     ],
-    "evoMoves": "double-hit",
+    "evoMoves": "double-hit, dragon-cheer",
     "animation": "18"
   }
 ]
