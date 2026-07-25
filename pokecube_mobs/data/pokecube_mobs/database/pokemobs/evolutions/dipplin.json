@@ -1,0 +1,8 @@
+{
+  "name": "hydrapple",
+  "user": "dipplin",
+  "condition": {
+    "key": "move",
+    "move": "dragon-cheer"
+  }
+}
