@@ -1,0 +1,11 @@
+{
+  "name": "archaludon",
+  "user": "duraludon",
+  "condition": {
+    "key": "item",
+    "item": {
+      "id": "minecraft:anvil"
+    }
+  },
+  "evoMoves": "electro-shot"
+}
