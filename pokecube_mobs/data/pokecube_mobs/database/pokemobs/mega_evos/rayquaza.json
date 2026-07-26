@@ -1,8 +1,20 @@
 {
   "user": "rayquaza",
   "name": "rayquaza-mega",
-  "rule": {
-    "key": "move",
-    "move": "dragon-ascent"
-  }
+  "rule": [
+    {
+      "key": "item_move_learn",
+      "item_mainhand": {
+        "id": "pokecube:megastone"
+      },
+      "item_offhand": {
+        "id": "minecraft:nether_star"
+      },
+      "moveLearnt": "dragon-ascent"
+    },
+    {
+      "key": "move",
+      "move": "dragon-ascent"
+    }
+  ]
 }
