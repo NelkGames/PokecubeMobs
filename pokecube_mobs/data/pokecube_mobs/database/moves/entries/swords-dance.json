@@ -9,6 +9,6 @@
   "flavor_text": "A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Raises the user's Attack by two stages.",
-  "effect_text_simple": "Raises the user's Attack by two stages."
+  "effect_text_extend": "Raises the user’s Attack by two stages.",
+  "effect_text_simple": "Raises the user’s Attack by two stages."
 }

@@ -10,6 +10,6 @@
   "flavor_text": "The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Lowers the target's Attack by one stage.",
-  "effect_text_simple": "Lowers the target's Attack by one stage."
+  "effect_text_extend": "Lowers the target’s Attack by one stage.",
+  "effect_text_simple": "Lowers the target’s Attack by one stage."
 }

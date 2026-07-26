@@ -9,7 +9,7 @@
   "target": "all-opponents",
   "damage_class": "special",
   "flavor_text": "The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn.",
-  "move_category": "damage+ailment",
+  "move_category": "damage-ailment",
   "ailment_chance": 100,
   "ailment": "burn",
   "effect_text_extend": "Inflicts regular damage.",

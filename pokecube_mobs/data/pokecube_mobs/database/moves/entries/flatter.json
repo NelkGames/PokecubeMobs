@@ -12,6 +12,6 @@
   "ailment": "confusion",
   "max_turns": 5,
   "min_turns": 2,
-  "effect_text_extend": "Raises the target's Special Attack by one stage, then confuses it.",
-  "effect_text_simple": "Raises the target's Special Attack by one stage and confuses the target."
+  "effect_text_extend": "Raises the target’s Special Attack by one stage, then confuses it.",
+  "effect_text_simple": "Raises the target’s Special Attack by one stage and confuses the target."
 }

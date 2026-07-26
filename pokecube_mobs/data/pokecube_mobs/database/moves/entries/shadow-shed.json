@@ -5,6 +5,6 @@
   "type": "shadow",
   "target": "entire-field",
   "damage_class": "status",
-  "effect_text_extend": "Removes the effects of light screen, reflect, and safeguard.",
+  "effect_text_extend": "Removes the effects of Light Screen, Reflect, and Safeguard.",
   "effect_text_simple": "Removes Light Screen, Reflect, and Safeguard."
 }

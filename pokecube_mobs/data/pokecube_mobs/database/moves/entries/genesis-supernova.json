@@ -10,6 +10,6 @@
   "flavor_text": "After obtaining Z-Power, the user, Mew, attacks the target with full force. The terrain will be charged with psychic energy.",
   "move_category": "damage",
   "ailment": "none",
-  "effect_text_extend": "Inflicts regular damage, then (if successful) changes the terrain to psychic terrain.",
+  "effect_text_extend": "Inflicts regular damage, then (if successful) changes the terrain to Psychic Terrain.",
   "effect_text_simple": "Changes the terrain to Psychic Terrain after inflicting damage."
 }

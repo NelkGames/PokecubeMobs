@@ -10,6 +10,6 @@
   "flavor_text": "The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.",
   "move_category": "damage",
   "ailment": "none",
-  "effect_text_extend": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.",
-  "effect_text_simple": "Inflicts damage equal to the user's level."
+  "effect_text_extend": "Inflicts damage equal to the user’s level.  Type immunity applies, but other type effects are ignored.",
+  "effect_text_simple": "Inflicts damage equal to the user’s level."
 }

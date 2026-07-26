@@ -11,6 +11,6 @@
   "flavor_text": "The user attacks by slicing with a long horn. The target’s stat changes don’t affect this attack’s damage.",
   "move_category": "damage",
   "ailment": "none",
-  "effect_text_extend": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.",
-  "effect_text_simple": "Ignores the target's stat modifiers."
+  "effect_text_extend": "Inflicts regular damage.  Damage calculation ignores the target’s stat modifiers, including evasion.",
+  "effect_text_simple": "Ignores the target’s stat modifiers."
 }

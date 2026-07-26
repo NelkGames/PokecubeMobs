@@ -9,7 +9,7 @@
   "target": "selected-pokemon",
   "damage_class": "special",
   "flavor_text": "This move is either physical or special—whichever will inflict more damage. This may also poison the target.",
-  "move_category": "damage+ailment",
+  "move_category": "damage-ailment",
   "ailment_chance": 20,
   "ailment": "poison",
   "effect_text_extend": "Inflicts regular damage.",

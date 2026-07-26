@@ -6,6 +6,6 @@
   "accuracy": 100,
   "target": "opponents-field",
   "damage_class": "status",
-  "effect_text_extend": "Lowers the target's evasion by two stages.",
-  "effect_text_simple": "Lowers the target's evasion by two stages."
+  "effect_text_extend": "Lowers the target’s evasion by two stages.",
+  "effect_text_simple": "Lowers the target’s evasion by two stages."
 }

@@ -12,6 +12,6 @@
   "ailment": "poison",
   "max_turns": 15,
   "min_turns": 15,
-  "effect_text_extend": "Badly poisons the target.  Never misses when used by a poison-type Pokémon.",
+  "effect_text_extend": "Badly poisons the target.  Never misses when used by a Poison-type Pokémon.",
   "effect_text_simple": "Badly poisons the target, inflicting more damage every turn."
 }

@@ -6,5 +6,6 @@
   "priority": 0,
   "type": "normal",
   "target": "user",
-  "damage_class": "status"
+  "damage_class": "status",
+  "flavor_text": "The user swaps its Attack and Defense stats."
 }

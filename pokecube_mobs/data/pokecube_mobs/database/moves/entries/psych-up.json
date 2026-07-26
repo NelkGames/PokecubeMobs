@@ -9,6 +9,6 @@
   "flavor_text": "The user hypnotizes itself into copying any stat change made by the target.",
   "move_category": "unique",
   "ailment": "none",
-  "effect_text_extend": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror move.",
-  "effect_text_simple": "Discards the user's stat changes and copies the target's."
+  "effect_text_extend": "Discards the user’s stat changes and copies the target’s.\n\nThis move cannot be copied by Mirror Move.",
+  "effect_text_simple": "Discards the user’s stat changes and copies the target’s."
 }
