@@ -11,6 +11,6 @@
   "flavor_text": "The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.",
   "move_category": "damage",
   "ailment": "none",
-  "effect_text_extend": "Destroys any light screen or reflect on the target's side of the field, then inflicts regular damage.",
+  "effect_text_extend": "Destroys any Light Screen or Reflect on the target’s side of the field, then inflicts regular damage.",
   "effect_text_simple": "Destroys Reflect and Light Screen."
 }

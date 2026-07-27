@@ -10,6 +10,6 @@
   "flavor_text": "The user’s mysterious psychic wave changes the target’s Ability to Simple.",
   "move_category": "unique",
   "ailment": "none",
-  "effect_text_extend": "Changes the target's ability to simple.",
-  "effect_text_simple": "Changes the target's ability to Simple."
+  "effect_text_extend": "Changes the target’s ability to Simple.",
+  "effect_text_simple": "Changes the target’s ability to Simple."
 }

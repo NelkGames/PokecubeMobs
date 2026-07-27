@@ -9,6 +9,6 @@
   "flavor_text": "The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Raises the user's Special Attack, Special Defense, and Speed by one stage each.",
-  "effect_text_simple": "Raises the user's Special Attack, Special Defense, and Speed by one stage each."
+  "effect_text_extend": "Raises the user’s Special Attack, Special Defense, and Speed by one stage each.",
+  "effect_text_simple": "Raises the user’s Special Attack, Special Defense, and Speed by one stage each."
 }

@@ -9,7 +9,7 @@
   "target": "selected-pokemon",
   "damage_class": "special",
   "flavor_text": "The user traps the target inside a cage of sparking electricity that inflicts damage for four to five turns.",
-  "move_category": "damage+ailment",
+  "move_category": "damage-ailment",
   "ailment_chance": 100,
   "ailment": "trap",
   "max_turns": 6,

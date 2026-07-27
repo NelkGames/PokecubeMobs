@@ -9,6 +9,6 @@
   "flavor_text": "The user kicks up mud on the battlefield. This weakens Electric-type moves for five turns.",
   "move_category": "whole-field-effect",
   "ailment": "none",
-  "effect_text_extend": "electric moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends.",
+  "effect_text_extend": "Electric moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends.",
   "effect_text_simple": "Halves all Electric-type damage."
 }

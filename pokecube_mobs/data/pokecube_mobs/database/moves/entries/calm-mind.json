@@ -9,6 +9,6 @@
   "flavor_text": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Raises the user's Special Attack and Special Defense by one stage each.",
-  "effect_text_simple": "Raises the user's Special Attack and Special Defense by one stage."
+  "effect_text_extend": "Raises the user’s Special Attack and Special Defense by one stage each.",
+  "effect_text_simple": "Raises the user’s Special Attack and Special Defense by one stage."
 }

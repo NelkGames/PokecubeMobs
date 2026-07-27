@@ -11,6 +11,6 @@
   "flavor_text": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
   "move_category": "damage",
   "ailment": "none",
-  "effect_text_extend": "Inflicts regular damage.  Will not reduce the target's HP below 1.",
-  "effect_text_simple": "Cannot lower the target's HP below 1."
+  "effect_text_extend": "Inflicts regular damage.  Will not reduce the target’s HP below 1.",
+  "effect_text_simple": "Cannot lower the target’s HP below 1."
 }

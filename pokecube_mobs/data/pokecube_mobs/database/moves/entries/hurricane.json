@@ -9,12 +9,12 @@
   "target": "selected-pokemon",
   "damage_class": "special",
   "flavor_text": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.",
-  "move_category": "damage+ailment",
+  "move_category": "damage-ailment",
   "ailment_chance": 30,
   "ailment": "confusion",
   "max_turns": 5,
   "min_turns": 2,
-  "effect_text_extend": "Inflicts regular damage.  Has a 30% chance to confuse the target.\n\nThis move can hit Pokémon under the effect of bounce, fly, or sky drop.\n\nDuring rain dance, this move has 100% accuracy.  During sunny day, this move has 50% accuracy.",
-  "effect_text_simple": "Has a 30% chance to confuse the target.",
+  "effect_text_extend": "Inflicts regular damage.  Has a chance to confuse the target.\n\nThis move can hit Pokémon under the effect of Bounce, Fly, or Sky Drop.\n\nDuring Rain Dance, this move has 100% accuracy.  During Sunny Day, this move has 50% accuracy.",
+  "effect_text_simple": "Has a chance to confuse the target.",
   "effect_chance": 30
 }

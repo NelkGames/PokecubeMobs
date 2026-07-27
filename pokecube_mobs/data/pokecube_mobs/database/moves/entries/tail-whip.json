@@ -10,6 +10,6 @@
   "flavor_text": "The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Lowers the target's Defense by one stage.",
-  "effect_text_simple": "Lowers the target's Defense by one stage."
+  "effect_text_extend": "Lowers the target’s Defense by one stage.",
+  "effect_text_simple": "Lowers the target’s Defense by one stage."
 }

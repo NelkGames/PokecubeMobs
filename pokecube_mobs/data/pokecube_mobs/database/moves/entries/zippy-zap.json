@@ -9,7 +9,7 @@
   "target": "selected-pokemon",
   "damage_class": "physical",
   "flavor_text": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered.",
-  "move_category": "damage+raise",
+  "move_category": "damage-raise",
   "stat_chance": 100,
   "ailment": "none",
   "effect_text_extend": "Inflicts regular damage.",

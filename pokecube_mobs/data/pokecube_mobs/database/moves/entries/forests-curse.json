@@ -10,6 +10,6 @@
   "flavor_text": "The user puts a forest curse on the target. The target is now Grass type as well.",
   "move_category": "unique",
   "ailment": "none",
-  "effect_text_extend": "Adds grass to the target's types.",
-  "effect_text_simple": "Adds grass to the target's types."
+  "effect_text_extend": "Adds Grass to the target’s types.",
+  "effect_text_simple": "Adds Grass to the target’s types."
 }

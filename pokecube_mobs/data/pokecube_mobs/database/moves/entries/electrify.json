@@ -9,6 +9,6 @@
   "flavor_text": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",
   "move_category": "unique",
   "ailment": "none",
-  "effect_text_extend": "Changes the target's move's type to electric if it hasn't moved yet this turn.",
-  "effect_text_simple": "Changes the target's move's type to electric if it hasn't moved yet this turn."
+  "effect_text_extend": "Changes the target’s move’s type to Electric if it hasn’t moved yet this turn.",
+  "effect_text_simple": "Changes the target’s move’s type to Electric if it hasn’t moved yet this turn."
 }

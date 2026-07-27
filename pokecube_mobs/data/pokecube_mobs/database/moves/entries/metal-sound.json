@@ -10,6 +10,6 @@
   "flavor_text": "A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Lowers the target's Special Defense by two stages.",
-  "effect_text_simple": "Lowers the target's Special Defense by two stages."
+  "effect_text_extend": "Lowers the target’s Special Defense by two stages.",
+  "effect_text_simple": "Lowers the target’s Special Defense by two stages."
 }

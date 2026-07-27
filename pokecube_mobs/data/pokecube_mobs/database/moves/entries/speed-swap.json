@@ -10,5 +10,5 @@
   "move_category": "unique",
   "ailment": "none",
   "effect_text_extend": "Exchanges the original Speed stats of the user and target.",
-  "effect_text_simple": "Exchanges the user's Speed with the target's."
+  "effect_text_simple": "Exchanges the user’s Speed with the target’s."
 }

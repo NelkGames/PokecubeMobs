@@ -11,6 +11,6 @@
   "flavor_text": "This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.",
   "move_category": "damage",
   "ailment": "none",
-  "effect_text_extend": "Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+  "effect_text_extend": "Inflicts regular damage.  Removes the effects of Detect or Protect from the target before hitting.\n\nThis move cannot be copied by Mirror Move, nor selected by Assist or Metronome.",
   "effect_text_simple": "Hits through Protect and Detect."
 }

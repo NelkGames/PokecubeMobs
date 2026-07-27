@@ -12,6 +12,6 @@
   "ailment": "none",
   "max_hits": 6,
   "min_hits": 6,
-  "effect_text_extend": "Inflicts typeless regular damage.  Every Pokémon in the user's party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  dark Pokémon still get STAB.\n\nThis effect breaks through wonder guard.",
+  "effect_text_extend": "Inflicts typeless regular damage.  Every Pokémon in the user’s party, excepting those that have fainted or have a major status effect, attacks the target.  Calculated stats are ignored; the base stats for the target and assorted attackers are used instead.  The random factor in the damage formula is not used.  Dark Pokémon still get STAB.\n\nThis effect breaks through Wonder Guard.",
   "effect_text_simple": "Hits once for every conscious Pokémon the trainer has."
 }

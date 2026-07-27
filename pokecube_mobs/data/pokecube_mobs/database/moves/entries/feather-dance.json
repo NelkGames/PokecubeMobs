@@ -10,6 +10,6 @@
   "flavor_text": "The user covers the target’s body with a mass of down that harshly lowers its Attack stat.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Lowers the target's Attack by two stages.",
-  "effect_text_simple": "Lowers the target's Attack by two stages."
+  "effect_text_extend": "Lowers the target’s Attack by two stages.",
+  "effect_text_simple": "Lowers the target’s Attack by two stages."
 }

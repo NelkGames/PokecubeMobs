@@ -12,7 +12,7 @@
   "move_category": "damage",
   "flinch_chance": 30,
   "ailment": "none",
-  "effect_text_extend": "Inflicts regular damage.  Has a 30% chance to make the target flinch.",
-  "effect_text_simple": "Has a 30% chance to make the target flinch.",
+  "effect_text_extend": "Inflicts regular damage.  Has a chance to make the target flinch.",
+  "effect_text_simple": "Has a chance to make the target flinch.",
   "effect_chance": 30
 }

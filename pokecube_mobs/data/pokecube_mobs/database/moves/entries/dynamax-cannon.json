@@ -11,6 +11,6 @@
   "flavor_text": "The user condenses energy within its body and unleashes that energy from its core to inflict damage.",
   "move_category": "damage",
   "ailment": "none",
-  "effect_text_extend": "Inflicts regular damage, then (if successful) sets light screen on the user's side of the field.",
-  "effect_text_simple": "Sets Light Screen on the user's side of the field after inflicting damage."
+  "effect_text_extend": "The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed.",
+  "effect_text_simple": "The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed."
 }

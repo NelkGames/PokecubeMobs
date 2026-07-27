@@ -6,5 +6,6 @@
   "priority": 0,
   "type": "ice",
   "target": "entire-field",
-  "damage_class": "status"
+  "damage_class": "status",
+  "flavor_text": "The user tells a chillingly bad joke before switching places with a party Pokémon in waiting. This summons a snowstorm lasting five turns."
 }

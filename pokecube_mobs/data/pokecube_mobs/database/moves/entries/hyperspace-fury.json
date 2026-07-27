@@ -8,7 +8,7 @@
   "target": "selected-pokemon",
   "damage_class": "physical",
   "flavor_text": "Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. But the user’s Defense stat falls.",
-  "move_category": "damage+raise",
+  "move_category": "damage-raise",
   "stat_chance": 100,
   "ailment": "none",
   "effect_text_extend": "Inflicts regular damage.  Bypasses and removes any protection effect on the target.",

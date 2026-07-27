@@ -9,6 +9,6 @@
   "flavor_text": "A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.",
   "move_category": "unique",
   "ailment": "none",
-  "effect_text_extend": "Lowers the target's evasion by one stage.  Clears away fog.  Removes the effects of mist, light screen, reflect, safeguard, spikes, stealth rock, and toxic spikes from the target's side of the field.\n\nIf the target is protected by mist, it will prevent the evasion change, then be removed by this move.",
-  "effect_text_simple": "Lowers the target's evasion by one stage.  Removes field effects from the enemy field."
+  "effect_text_extend": "Lowers the target’s evasion by one stage.  Clears away fog.  Removes the effects of Mist, Light Screen, Reflect, Safeguard, Spikes, Stealth Rock, and Toxic Spikes from the target’s side of the field.\n\nIf the target is protected by Mist, it will prevent the evasion change, then be removed by this move.",
+  "effect_text_simple": "Lowers the target’s evasion by one stage.  Removes field effects from the enemy field."
 }

@@ -9,6 +9,6 @@
   "flavor_text": "The user reflects the target’s type, making it the same type as the target.",
   "move_category": "unique",
   "ailment": "none",
-  "effect_text_extend": "User's type changes to match the target's.",
-  "effect_text_simple": "User becomes the target's type."
+  "effect_text_extend": "User’s type changes to match the target’s.",
+  "effect_text_simple": "User becomes the target’s type."
 }

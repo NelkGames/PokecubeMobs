@@ -9,6 +9,6 @@
   "flavor_text": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.",
   "move_category": "net-good-stats",
   "ailment": "none",
-  "effect_text_extend": "Raises the user's evasion by one stage.",
-  "effect_text_simple": "Raises the user's evasion by one stage."
+  "effect_text_extend": "Raises the user’s evasion by one stage.",
+  "effect_text_simple": "Raises the user’s evasion by one stage."
 }

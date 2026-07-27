@@ -8,5 +8,10 @@
   "accuracy": 85,
   "target": "selected-pokemon",
   "damage_class": "special",
-  "flavor_text": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns."
+  "flavor_text": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns.",
+  "move_category": "unique",
+  "stat_chance": 100,
+  "ailment": "none",
+  "max_turns": 3,
+  "min_turns": 3
 }
