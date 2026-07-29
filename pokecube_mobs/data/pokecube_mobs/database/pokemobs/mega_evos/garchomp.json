@@ -1,0 +1,22 @@
+[
+  {
+    "user": "garchomp_male",
+    "name": "garchomp-mega",
+    "rule": {
+      "key": "item",
+      "item": {
+        "item": "pokecube:garchompmega"
+      }
+    }
+  },
+  {
+    "user": "garchomp_female",
+    "name": "garchomp-mega",
+    "rule": {
+      "key": "item",
+      "item": {
+        "item": "pokecube:garchompmega"
+      }
+    }
+  }
+]
