@@ -9,7 +9,7 @@
    <part name="Head" tex="drakloakhead"/>
    <animation diffs="0.5,0" part="Head" trigger="random:0.005:15"/>
    <part name="Body1" tex="dreepy"/>
-   <part name="Head1" tex="dreepyhead"/>
+   <part name="Head1" tex="dreepy_eye"/>
    <animation diffs="0.5,0" part="Head1" trigger="random:0.005:15"/>
   </customTex>
   <phase type="sitting">
