@@ -4,7 +4,7 @@
   <phase name="global" scale="1.2"/>
   <metadata head="head" headCap="-70,70" headCap1="-60,60"/>
   <customTex default="rillaboom">
-	<part name="Head" tex="rillaboomeye"/>
+	<part name="Head" tex="rillaboom_eye"/>
   </customTex>
   <phase type="sitting">
    <part name="body1">
