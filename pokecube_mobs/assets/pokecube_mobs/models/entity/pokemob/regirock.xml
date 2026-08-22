@@ -3,7 +3,7 @@
  <model name="">
   <phase name="global" scale="0.32"/>
   <phase duration="10" leftArm="" leftLeg="leg1:foot1" legAngle="15" name="biWalk" rightArm="" rightLeg="leg2:foot2"/>
-  <metadata head="head" headCap="-10,10" headCap1="0,0" headDir1="-1"/>
+  <metadata head="head" headCap="-10,10" headCap1="0,0"/>
   <customTex default="regirock">
    <part name="Led1" tex="regirock_led"/>
    <animation diffs="0,0.5" part="Led1" trigger="random:0.005:10"/>

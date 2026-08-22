@@ -2,7 +2,7 @@
 <ModelAnimator>
  <model>
   <phase name="global" scale="0.6"/>
-  <metadata head="head" headCap="-10,10" headCap1="-10,10" headDir1="-1"/>
+  <metadata head="head" headCap="-10,10" headCap1="-10,10"/>
   <customTex default="iron_moth">
    <part name="Eye" tex="iron_moth_eye"/>
    <part name="Wing" tex="iron_moth_wing"/>

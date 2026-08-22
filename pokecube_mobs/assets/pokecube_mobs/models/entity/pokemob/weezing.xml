@@ -2,7 +2,7 @@
 <ModelAnimator>
  <model>
   <phase name="global" scale="0.3"/>
-  <metadata head="body" headCap="-20,20" headCap1="-20,20" headDir1="-1"/>
+  <metadata head="body" headCap="-20,20" headCap1="-20,20"/>
   <customTex default="weezing">
    <part name="EyeC" tex="weezing_eyeb"/>
    <animation diffs="0,0.5" part="EyeC" trigger="random:0.005:3"/>

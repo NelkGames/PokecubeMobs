@@ -2,7 +2,7 @@
 <ModelAnimator>
  <model>
   <phase name="global" scale="0.3"/>
-  <metadata head="head" headCap="-15,15" headCap1="-15,15" headDir1="-1"/>
+  <metadata head="head" headCap="-15,15" headCap1="-15,15"/>
   <phase duration="10" leftArm="" leftLeg="leg1" legAngle="25" name="biWalk" rightArm="" rightLeg="leg2"/>
   <customTex default="starly">
    <part name="Head" tex="starly_eye"/>
