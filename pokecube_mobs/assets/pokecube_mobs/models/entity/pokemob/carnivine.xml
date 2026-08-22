@@ -2,7 +2,7 @@
 <ModelAnimator version="0.1">
  <model name="Steelix">
   <phase name="global" scale="0.6"/>
-  <metadata head="head" headCap="-30,30" headCap1="-30,30" headDir1="-1"/>
+  <metadata head="head" headCap="-30,30" headCap1="-30,30"/>
   <phase name="snakeIdle" length="200" angle="15" axis="0" parts="leg_1:leg_2:leg_3:leg_4"/>
   <phase name="snakeIdle" length="150" angle="15" axis="0" parts="leg1_1:leg1_2:leg1_3:leg1_4"/>
   <phase name="snakeIdle" length="200" angle="15" axis="0" parts="leg2_1:leg2_2:leg2_3:leg2_4"/>

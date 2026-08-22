@@ -2,7 +2,7 @@
 <ModelAnimator>
  <model>
 	<phase name="global" scale="0.28"/>
-	  <metadata head="neck1:head1:neck2:head2" headCap="-30,30" headCap1="-30,30" headDir1="-1"/>
+	  <metadata head="neck1:head1:neck2:head2" headCap="-30,30" headCap1="-30,30"/>
 	<phase name="biWalk" leftLeg="leg1" rightLeg="leg2" leftArm="" rightArm="" duration="10" legAngle="30"/>
     <customTex default="scovillain">
      <part name="Eye2" tex="scovillain_eye_red"/>
